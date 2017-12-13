@@ -171,12 +171,12 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/hackathon.jpg");
+  /*background: url("../img/hackathon.jpg");
   /* fallback for old browsers */
   /* pattern overlay: url("../img/bg-pattern.png")*/
-  /*background:  -webkit-linear-gradient(top, rgba(0,0,0,0.4), rgba(0,0,0,1)), url("../img/hackathon.jpg");
+  background:  -webkit-linear-gradient(top, rgba(0,0,0,0.4), rgba(0,0,0,1)), url("../img/hackathon.jpg");
   /* Chrome 10-25, Safari 5.1-6 */
-  /*background:  linear-gradient(to top, rgba(0,0,0,0.4),rgba(0,0,0,1)), url("../img/hackathon.jpg");
+  background:  linear-gradient(to top, rgba(0,0,0,0.4),rgba(0,0,0,1)), url("../img/hackathon.jpg");
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
